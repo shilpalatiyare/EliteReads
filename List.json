@@ -1,0 +1,66 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"Pride and Prejudice",
+        "price":0,
+        "category":"free",
+        "image" :"https://cdn.kobo.com/book-images/1a735d96-6075-4bca-87b7-15fb97ee50c7/1200/1200/False/pride-and-prejudice-216.jpg"
+    },
+    {
+        "id":2,
+        "name":"Story Book",
+        "title":"Pride and Prejudice",
+        "price":0,
+        "category":"horror",
+        "image" :"https://images.squarespace-cdn.com/content/v1/5d253c231b7b3d000152f204/1636959802830-AW7JAWUJGCXXUYVIZC3J/Pride_and_Prejudice_Cover-Amazon-Front__77495.1569338564.386.513.jpg"
+    },
+    {
+        "id":3,
+        "name":"Story Book",
+        "title":"Pride and Prejudice",
+        "price":0,
+        "category":"free",
+        "image" :"https://images.squarespace-cdn.com/content/v1/5d253c231b7b3d000152f204/1636959802830-AW7JAWUJGCXXUYVIZC3J/Pride_and_Prejudice_Cover-Amazon-Front__77495.1569338564.386.513.jpg"
+    },
+    {
+        "id":4,
+        "name":"Story Book",
+        "title":"Pride and Prejudice",
+        "price":0,
+        "category":"free",
+        "image" :"https://images.squarespace-cdn.com/content/v1/5d253c231b7b3d000152f204/1636959802830-AW7JAWUJGCXXUYVIZC3J/Pride_and_Prejudice_Cover-Amazon-Front__77495.1569338564.386.513.jpg"
+    },
+    {
+        "id":5,
+        "name":"Story Book",
+        "title":"Pride and Prejudice",
+        "price":0,
+        "category":"free",
+        "image" :"https://images.squarespace-cdn.com/content/v1/5d253c231b7b3d000152f204/1636959802830-AW7JAWUJGCXXUYVIZC3J/Pride_and_Prejudice_Cover-Amazon-Front__77495.1569338564.386.513.jpg"
+    },
+    {
+        "id":6,
+        "name":"Story Book",
+        "title":"Pride and Prejudice",
+        "price":0,
+        "category":"free",
+        "image" :"https://bukovero.com/wp-content/uploads/2016/07/Harry_Potter_and_the_Cursed_Child_Special_Rehearsal_Edition_Book_Cover.jpg"
+    },
+    {
+        "id":7,
+        "name":"Story Book",
+        "title":"Pride and Prejudice",
+        "price":0,
+        "category":"free",
+        "image" :"https://marketplace.canva.com/EAFaQMYuZbo/1/0/1003w/canva-brown-rusty-mystery-novel-book-cover-hG1QhA7BiBU.jpg"
+    },
+    {
+        "id":8,
+        "name":"Story Book",
+        "title":"Pride and Prejudice",
+        "price":0,
+        "category":"free",
+        "image" :"https://i.pinimg.com/474x/0d/f9/0f/0df90fb803aff4d8e757046305791b6a.jpg"
+    }
+]
